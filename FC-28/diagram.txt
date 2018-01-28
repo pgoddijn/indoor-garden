@@ -1,0 +1,15 @@
+# Circuit wiring diagram - FC-28 <-> Arduino
+
+The connections for the FC-28 soil moisture sensor and the Arduino in digital mode are as follows:
+
+VCC of FC-28 to 5V of Arduino
+GND of FC-28 to GND of Arduino
+D0 of FC-28 to pin 12 of Arduino
+LED positive to pin 13 of Arduino
+LED negative to GND of Arduino
+
+See image in ./images/Analog-Mode-Circuit-Diagrom-1-1024x623.jpg
+
+or 
+
+https://github.com/pgoddijn/indoor-garden/blob/master/FC-28/images/Analog-Mode-Circuit-Diagram-1-1024x623.jpg

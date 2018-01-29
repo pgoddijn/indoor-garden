@@ -12,6 +12,6 @@ Bill of Materials (BOM):
 6. Liquid level controller for the water reservoir
 7. Growing lights (SMD5050 LED grow strips)
 
-The choice for the Arduino or ESP8266 depends on the ammount of moisture sensors you need to connect. Since the FC-28 is not quite accurate in digital mode (too basic), you want to read the sensor in analogue mode. An ESP8266 has a limited set of analogue connectors. If you want to connect more than 6 sensors, you might want to use the Arduino Mega as it has 12 analogue connectors. Oh, and if you want a simple system and WiFi from the start, the ESP8266 is the way to go
+The choice for the Arduino or ESP8266 depends on the ammount of moisture sensors you need to connect. Since the FC-28 is not quite accurate in digital mode (too basic), you want to read the sensor in analogue mode. An ESP8266 has a limited set of analogue connectors. If you want to connect more than 6 sensors, you might want to use the Arduino Mega as it has 12 analogue connectors. Oh, and if you want a simple system and WiFi from the start, the ESP8266 is the way to go.
 
 Because right now I don't have any materials to work with, this README will be continued later on. Oh, and I bought a bonzai ficus tree. Let's hope the lights get here fast; those trees seem to die fast so this is a serious case of life or death...
